@@ -125,6 +125,7 @@ public:
     {
       this->pop();
     }
+    Size = 0;
   }
   
   void swap( queue& other )
